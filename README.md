@@ -25,14 +25,9 @@ Your posts, photos, and drinking history are visible only to buddies you have ac
 
 ## Where your data is stored
 
-BeerReel uses reputable infrastructure providers to store and process data on our behalf:
-
-- **Neo4j Aura** — database hosting (account, posts, social data)
-- **Render** — application server hosting
-- **Cloudflare R2** — photo storage; photos are accessed only via short-lived signed links
-- **Expo** — push notification delivery
-
-These providers process data solely to provide their services to BeerReel.
+Your data is processed by cloud infrastructure providers on our behalf. 
+These providers process data solely to provide their services to BeerReel 
+and do not use it for other purposes.
 
 ## Data retention and deletion
 
