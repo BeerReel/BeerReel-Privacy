@@ -52,4 +52,4 @@ If this policy changes materially, we will note the new date at the top of this 
 
 ## Contact
 
-Christian Wood — [christian.f.wood@gmail.com](mailto:christian.f.wood@gmail.com)
+Christian Wood — [beerreelapp@gmail.com](mailto:beerreelapp@gmail.com)
