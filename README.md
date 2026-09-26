@@ -6,6 +6,7 @@ The public legal documents for the [BeerReel](https://github.com/BeerReel) app.
 |---|---|
 | [privacy.html](./privacy.html) | Privacy Policy |
 | [terms.html](./terms.html) | Terms & Conditions |
+| [delete-account.html](./delete-account.html) | How to delete your account, and what is removed (the URL Google Play lists) |
 | [SUPPORT.md](./SUPPORT.md) | Support page and FAQ |
 | [osm-pubs-odbl.csv](./osm-pubs-odbl.csv) | The ODbL extract of pub data derived from OpenStreetMap |
 
